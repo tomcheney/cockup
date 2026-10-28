@@ -1,0 +1,51 @@
+[project]
+name = "cockup"
+version = "0.1.0"
+description = "A fallback gazetteer of amusing real places, with a rudeness knob."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+keywords = ["gazetteer", "geojson", "maps", "sailing"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering :: GIS",
+]
+dependencies = []
+
+[project.optional-dependencies]
+web = [
+    "starlette>=0.37",
+    "uvicorn>=0.30",
+]
+
+[project.scripts]
+cockup = "cockup.cli:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+    "httpx2>=0.1",
+    "starlette>=0.37",
+    "uvicorn>=0.30",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/cockup"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"src/cockup/data/places.json" = "cockup/data/places.json"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "dull",
+    "name": "Dull",
+    "lat": 56.618757,
+    "lon": -3.945432,
+    "zoom": 14,
+    "bbox": [
+      -3.98835,
+      56.60222,
+      -3.90251,
+      56.63529
+    ],
+    "country": "GB",
+    "region": "Perth and Kinross",
+    "rudeness": 0,
+    "note": "A Perthshire village twinned, inevitably, with Boring, Oregon.",
+    "source": "https://www.openstreetmap.org/node/312542721"
+  },
+  {
+    "id": "boring",
+    "name": "Boring",
+    "lat": 45.432664,
+    "lon": -122.369506,
+    "zoom": 14,
+    "bbox": [
+      -122.41243,
+      45.41158,
+      -122.32659,
+      45.45375
+    ],
+    "country": "US",
+    "region": "Oregon",
+    "rudeness": 0,
+    "note": "The Oregon village that accepted the twinning with Dull.",
+    "source": "https://www.openstreetmap.org/node/5122552325"
+  },
+  {
+    "id": "pity-me",
+    "name": "Pity Me",
+    "lat": 54.804761,
+    "lon": -1.588939,
+    "zoom": 14,
+    "bbox": [
+      -1.63186,
+      54.78744,
+      -1.54602,
+      54.82208
+    ],
+    "country": "GB",
+    "region": "County Durham",
+    "rudeness": 0,
+    "note": "A village north of Durham whose name is already an apology.",
+    "source": "https://www.openstreetmap.org/node/313047811"
+  },
+  {
+    "id": "no-place",
+    "name": "No Place",
+    "lat": 54.873735,
+    "lon": -1.665192,
+    "zoom": 15,
+    "bbox": [
+      -1.68665,
+      54.86509,
+      -1.64373,
+      54.88238
+    ],
+    "country": "GB",
+    "region": "County Durham",
+    "rudeness": 0,
+    "note": "Also County Durham, and an honest label for a session with no fix.",
+    "source": "https://www.openstreetmap.org/node/10102386946"
+  },
+  {
+    "id": "lost",
+    "name": "Lost",
+    "lat": 57.205379,
+    "lon": -3.079301,
+    "zoom": 15,
+    "bbox": [
+      -3.10076,
+      57.19724,
+      -3.05784,
+      57.21352
+    ],
+    "country": "GB",
+    "region": "Aberdeenshire",
+    "rudeness": 0,
+    "note": "A hamlet in Strathdon. The map knows where it is, which is more than the session does.",
+    "source": "https://www.openstreetmap.org/node/659797436"
+  },
+  {
+    "id": "uncertain",
+    "name": "Uncertain",
+    "lat": 32.712088,
+    "lon": -94.121297,
+    "zoom": 13,
+    "bbox": [
+      -94.20713,
+      32.66153,
+      -94.03546,
+      32.76265
+    ],
+    "country": "US",
+    "region": "Texas",
+    "rudeness": 0,
+    "note": "A small city on Caddo Lake, Texas, named with unusual honesty.",
+    "source": "https://www.openstreetmap.org/relation/113773"
+  },
+  {
+    "id": "westward-ho",
+    "name": "Westward Ho!",
+    "lat": 51.041166,
+    "lon": -4.231507,
+    "zoom": 14,
+    "bbox": [
+      -4.27443,
+      51.02227,
+      -4.18859,
+      51.06006
+    ],
+    "country": "GB",
+    "region": "Devon",
+    "rudeness": 0,
+    "note": "The Devon resort that kept the exclamation mark.",
+    "source": "https://www.openstreetmap.org/node/531657045"
+  },
+  {
+    "id": "come-to-good",
+    "name": "Come-to-Good",
+    "lat": 50.2222,
+    "lon": -5.0675,
+    "zoom": 15,
+    "bbox": [
+      -5.08896,
+      50.21258,
+      -5.04604,
+      50.23182
+    ],
+    "country": "GB",
+    "region": "Cornwall",
+    "rudeness": 0,
+    "note": "A Quaker hamlet in Feock parish. Encouraging, and still not the boat.",
+    "source": "https://www.wikidata.org/wiki/Q5151039"
+  },
+  {
+    "id": "great-snoring",
+    "name": "Great Snoring",
+    "lat": 52.868195,
+    "lon": 0.887073,
+    "zoom": 14,
+    "bbox": [
+      0.84415,
+      52.85006,
+      0.92999,
+      52.88633
+    ],
+    "country": "GB",
+    "region": "Norfolk",
+    "rudeness": 0,
+    "note": "A Norfolk village. Little Snoring is down the lane, also asleep.",
+    "source": "https://www.openstreetmap.org/relation/1022718"
+  },
+  {
+    "id": "little-snoring",
+    "name": "Little Snoring",
+    "lat": 52.853582,
+    "lon": 0.905463,
+    "zoom": 15,
+    "bbox": [
+      0.884,
+      52.84451,
+      0.92693,
+      52.86266
+    ],
+    "country": "GB",
+    "region": "Norfolk",
+    "rudeness": 0,
+    "note": "The smaller of Norfolk's two snoring villages.",
+    "source": "https://www.openstreetmap.org/relation/1022487"
+  },
+  {
+    "id": "barton-in-the-beans",
+    "name": "Barton in the Beans",
+    "lat": 52.653701,
+    "lon": -1.416713,
+    "zoom": 15,
+    "bbox": [
+      -1.43818,
+      52.64458,
+      -1.39525,
+      52.66282
+    ],
+    "country": "GB",
+    "region": "Leicestershire",
+    "rudeness": 0,
+    "note": "A Leicestershire village that declined an ordinary name.",
+    "source": "https://www.openstreetmap.org/node/27437358"
+  },
+  {
+    "id": "idle",
+    "name": "Idle",
+    "lat": 53.83522,
+    "lon": -1.730401,
+    "zoom": 14,
+    "bbox": [
+      -1.77332,
+      53.81749,
+      -1.68748,
+      53.85295
+    ],
+    "country": "GB",
+    "region": "West Yorkshire",
+    "rudeness": 0,
+    "note": "A Bradford suburb that has already retired from the race.",
+    "source": "https://www.openstreetmap.org/node/29066915"
+  },
+  {
+    "id": "wideopen",
+    "name": "Wideopen",
+    "lat": 55.045797,
+    "lon": -1.621773,
+    "zoom": 14,
+    "bbox": [
+      -1.66469,
+      55.02858,
+      -1.57885,
+      55.06301
+    ],
+    "country": "GB",
+    "region": "Tyne and Wear",
+    "rudeness": 0,
+    "note": "A village north of Newcastle with nothing to hide, and still no track.",
+    "source": "https://www.openstreetmap.org/node/289176993"
+  },
+  {
+    "id": "nothing",
+    "name": "Nothing",
+    "lat": 34.479958,
+    "lon": -113.336013,
+    "zoom": 12,
+    "bbox": [
+      -113.50768,
+      34.3809,
+      -113.16435,
+      34.57902
+    ],
+    "country": "US",
+    "region": "Arizona",
+    "rudeness": 0,
+    "note": "A desert spot on the road through Arizona. The name is the whole briefing.",
+    "source": "https://www.openstreetmap.org/node/3157628388"
+  },
+  {
+    "id": "why",
+    "name": "Why",
+    "lat": 32.258024,
+    "lon": -112.730243,
+    "zoom": 13,
+    "bbox": [
+      -112.81608,
+      32.20721,
+      -112.64441,
+      32.30884
+    ],
+    "country": "US",
+    "region": "Arizona",
+    "rudeness": 0,
+    "note": "A census-designated place in Arizona, and a fair question to put on the chart.",
+    "source": "https://www.openstreetmap.org/relation/17150785"
+  },
+  {
+    "id": "wetwang",
+    "name": "Wetwang",
+    "lat": 54.019254,
+    "lon": -0.589624,
+    "zoom": 14,
+    "bbox": [
+      -0.63254,
+      54.0016,
+      -0.5467,
+      54.03691
+    ],
+    "country": "GB",
+    "region": "East Riding of Yorkshire",
+    "rudeness": 1,
+    "note": "An East Yorkshire village. One reading aloud is enough for the tea tent.",
+    "source": "https://www.openstreetmap.org/relation/917165"
+  },
+  {
+    "id": "ugley",
+    "name": "Ugley",
+    "lat": 51.93732,
+    "lon": 0.211067,
+    "zoom": 14,
+    "bbox": [
+      0.16815,
+      51.91879,
+      0.25399,
+      51.95585
+    ],
+    "country": "GB",
+    "region": "Essex",
+    "rudeness": 1,
+    "note": "An Essex village near Stansted that sounds like a verdict.",
+    "source": "https://www.openstreetmap.org/relation/3348167"
+  },
+  {
+    "id": "nasty",
+    "name": "Nasty",
+    "lat": 51.902413,
+    "lon": -0.025376,
+    "zoom": 15,
+    "bbox": [
+      -0.04684,
+      51.89314,
+      -0.00391,
+      51.91169
+    ],
+    "country": "GB",
+    "region": "Hertfordshire",
+    "rudeness": 1,
+    "note": "A Hertfordshire hamlet. The name is the whole joke, and it is a small one.",
+    "source": "https://www.openstreetmap.org/node/332208573"
+  },
+  {
+    "id": "crackpot",
+    "name": "Crackpot",
+    "lat": 54.365188,
+    "lon": -2.042748,
+    "zoom": 15,
+    "bbox": [
+      -2.06421,
+      54.35643,
+      -2.02129,
+      54.37394
+    ],
+    "country": "GB",
+    "region": "North Yorkshire",
+    "rudeness": 1,
+    "note": "A hamlet in Swaledale, for when the track looks the part.",
+    "source": "https://www.openstreetmap.org/node/511035009"
+  },
+  {
+    "id": "blubberhouses",
+    "name": "Blubberhouses",
+    "lat": 53.98898,
+    "lon": -1.777724,
+    "zoom": 14,
+    "bbox": [
+      -1.82064,
+      53.97131,
+      -1.7348,
+      54.00665
+    ],
+    "country": "GB",
+    "region": "North Yorkshire",
+    "rudeness": 1,
+    "note": "A North Yorkshire village that sounds like the hour after a capsize.",
+    "source": "https://www.openstreetmap.org/relation/7684250"
+  },
+  {
+    "id": "giggleswick",
+    "name": "Giggleswick",
+    "lat": 54.071863,
+    "lon": -2.288103,
+    "zoom": 14,
+    "bbox": [
+      -2.33102,
+      54.05423,
+      -2.24518,
+      54.08949
+    ],
+    "country": "GB",
+    "region": "North Yorkshire",
+    "rudeness": 1,
+    "note": "A village beside Settle. The giggle is in the name itself.",
+    "source": "https://www.openstreetmap.org/relation/7306817"
+  },
+  {
+    "id": "north-piddle",
+    "name": "North Piddle",
+    "lat": 52.188183,
+    "lon": -2.048902,
+    "zoom": 15,
+    "bbox": [
+      -2.07036,
+      52.17897,
+      -2.02744,
+      52.1974
+    ],
+    "country": "GB",
+    "region": "Worcestershire",
+    "rudeness": 1,
+    "note": "A Worcestershire village on a small stream, which is the official excuse.",
+    "source": "https://www.openstreetmap.org/relation/1875267"
+  },
+  {
+    "id": "wyre-piddle",
+    "name": "Wyre Piddle",
+    "lat": 52.125937,
+    "lon": -2.052182,
+    "zoom": 15,
+    "bbox": [
+      -2.07364,
+      52.11671,
+      -2.03072,
+      52.13516
+    ],
+    "country": "GB",
+    "region": "Worcestershire",
+    "rudeness": 1,
+    "note": "The other Piddle, a little downstream in Worcestershire.",
+    "source": "https://www.openstreetmap.org/relation/1875333"
+  },
+  {
+    "id": "upper-dicker",
+    "name": "Upper Dicker",
+    "lat": 50.866675,
+    "lon": 0.202985,
+    "zoom": 15,
+    "bbox": [
+      0.18152,
+      50.85719,
+      0.22445,
+      50.87616
+    ],
+    "country": "GB",
+    "region": "East Sussex",
+    "rudeness": 1,
+    "note": "An East Sussex village. The name does its own work.",
+    "source": "https://www.openstreetmap.org/node/11160716605"
+  },
+  {
+    "id": "bishops-itchington",
+    "name": "Bishop's Itchington",
+    "lat": 52.216841,
+    "lon": -1.430984,
+    "zoom": 14,
+    "bbox": [
+      -1.4739,
+      52.19843,
+      -1.38806,
+      52.23525
+    ],
+    "country": "GB",
+    "region": "Warwickshire",
+    "rudeness": 1,
+    "note": "A Warwickshire village. The bishop is historical; the rest is just the name.",
+    "source": "https://www.openstreetmap.org/node/280156416"
+  },
+  {
+    "id": "toad-suck",
+    "name": "Toad Suck",
+    "lat": 35.075641,
+    "lon": -92.559882,
+    "zoom": 14,
+    "bbox": [
+      -92.6028,
+      35.05105,
+      -92.51696,
+      35.10023
+    ],
+    "country": "US",
+    "region": "Arkansas",
+    "rudeness": 1,
+    "note": "A bend of the Arkansas River, west of Conway, named with great confidence.",
+    "source": "https://www.openstreetmap.org/node/151640452"
+  },
+  {
+    "id": "tightwad",
+    "name": "Tightwad",
+    "lat": 38.309467,
+    "lon": -93.546597,
+    "zoom": 15,
+    "bbox": [
+      -93.56806,
+      38.29768,
+      -93.52513,
+      38.32126
+    ],
+    "country": "US",
+    "region": "Missouri",
+    "rudeness": 1,
+    "note": "A Missouri village that sounds like the race committee's budget.",
+    "source": "https://www.openstreetmap.org/relation/140544"
+  },
+  {
+    "id": "come-by-chance",
+    "name": "Come By Chance",
+    "lat": 47.834229,
+    "lon": -53.990788,
+    "zoom": 13,
+    "bbox": [
+      -54.07662,
+      47.79389,
+      -53.90495,
+      47.87457
+    ],
+    "country": "CA",
+    "region": "Newfoundland and Labrador",
+    "rudeness": 1,
+    "note": "A Newfoundland town. A fair description of how this position was obtained.",
+    "source": "https://www.openstreetmap.org/relation/2834725"
+  },
+  {
+    "id": "leading-tickles",
+    "name": "Leading Tickles",
+    "lat": 49.504418,
+    "lon": -55.455335,
+    "zoom": 13,
+    "bbox": [
+      -55.54117,
+      49.4654,
+      -55.3695,
+      49.54344
+    ],
+    "country": "CA",
+    "region": "Newfoundland and Labrador",
+    "rudeness": 1,
+    "note": "A Newfoundland outport. A tickle is a narrow strait, which will not save the announcement.",
+    "source": "https://www.openstreetmap.org/relation/2855275"
+  },
+  {
+    "id": "middelfart",
+    "name": "Middelfart",
+    "lat": 55.499301,
+    "lon": 9.739218,
+    "zoom": 13,
+    "bbox": [
+      9.65338,
+      55.46527,
+      9.82505,
+      55.53334
+    ],
+    "country": "DK",
+    "region": "Southern Denmark",
+    "rudeness": 1,
+    "note": "A harbour town on the Little Belt in Denmark. The joke is English, and it is not a sophisticated one.",
+    "source": "https://www.openstreetmap.org/node/26559277"
+  },
+  {
+    "id": "hell",
+    "name": "Hell",
+    "lat": 42.434757,
+    "lon": -83.984948,
+    "zoom": 14,
+    "bbox": [
+      -84.02787,
+      42.41258,
+      -83.94203,
+      42.45693
+    ],
+    "country": "US",
+    "region": "Michigan",
+    "rudeness": 1,
+    "note": "An unincorporated community in Michigan. Warm enough welcome, still no position fix.",
+    "source": "https://www.openstreetmap.org/node/154309316"
+  },
+  {
+    "id": "cockermouth",
+    "name": "Cockermouth",
+    "lat": 54.66365,
+    "lon": -3.36578,
+    "zoom": 13,
+    "bbox": [
+      -3.45162,
+      54.6289,
+      -3.27994,
+      54.6984
+    ],
+    "country": "GB",
+    "region": "Cumbria",
+    "rudeness": 2,
+    "note": "A Cumbrian market town where the River Cocker meets the Derwent. The deniability is geographical.",
+    "source": "https://www.openstreetmap.org/relation/8366294"
+  },
+  {
+    "id": "penistone",
+    "name": "Penistone",
+    "lat": 53.524744,
+    "lon": -1.629434,
+    "zoom": 13,
+    "bbox": [
+      -1.71527,
+      53.48902,
+      -1.5436,
+      53.56047
+    ],
+    "country": "GB",
+    "region": "South Yorkshire",
+    "rudeness": 2,
+    "note": "A South Yorkshire town. It is pronounced much as it looks.",
+    "source": "https://www.openstreetmap.org/relation/1267752"
+  },
+  {
+    "id": "cockfosters",
+    "name": "Cockfosters",
+    "lat": 51.6479,
+    "lon": -0.14741,
+    "zoom": 15,
+    "bbox": [
+      -0.16887,
+      51.63858,
+      -0.12595,
+      51.65722
+    ],
+    "country": "GB",
+    "region": "Greater London",
+    "rudeness": 2,
+    "note": "The northern end of the Piccadilly line. The clubhouse can still pretend this one is innocent.",
+    "source": "https://www.openstreetmap.org/node/255747617"
+  },
+  {
+    "id": "thong",
+    "name": "Thong",
+    "lat": 51.409223,
+    "lon": 0.404733,
+    "zoom": 15,
+    "bbox": [
+      0.38327,
+      51.39985,
+      0.4262,
+      51.4186
+    ],
+    "country": "GB",
+    "region": "Kent",
+    "rudeness": 2,
+    "note": "A hamlet in Kent, just south of Gravesend.",
+    "source": "https://www.openstreetmap.org/node/613905142"
+  },
+  {
+    "id": "cocking",
+    "name": "Cocking",
+    "lat": 50.95507,
+    "lon": -0.758077,
+    "zoom": 14,
+    "bbox": [
+      -0.801,
+      50.93614,
+      -0.71516,
+      50.974
+    ],
+    "country": "GB",
+    "region": "West Sussex",
+    "rudeness": 2,
+    "note": "A West Sussex village on the South Downs. The verb is unhelpful.",
+    "source": "https://www.openstreetmap.org/relation/3000474"
+  },
+  {
+    "id": "lusty-glaze",
+    "name": "Lusty Glaze",
+    "lat": 50.423238,
+    "lon": -5.067622,
+    "zoom": 15,
+    "bbox": [
+      -5.08908,
+      50.41366,
+      -5.04616,
+      50.43281
+    ],
+    "country": "GB",
+    "region": "Cornwall",
+    "rudeness": 2,
+    "note": "A beach at Newquay. The old sense of lusty was vigorous, and the beach is still a beach.",
+    "source": "https://www.openstreetmap.org/way/188659847"
+  },
+  {
+    "id": "titty-hill",
+    "name": "Titty Hill",
+    "lat": 51.024851,
+    "lon": -0.782074,
+    "zoom": 15,
+    "bbox": [
+      -0.80354,
+      51.0154,
+      -0.76061,
+      51.0343
+    ],
+    "country": "GB",
+    "region": "West Sussex",
+    "rudeness": 2,
+    "note": "A hamlet in West Sussex. Small hill, unhelpful name.",
+    "source": "https://www.openstreetmap.org/node/919235906"
+  },
+  {
+    "id": "cockwood",
+    "name": "Cockwood",
+    "lat": 50.6162,
+    "lon": -3.448188,
+    "zoom": 15,
+    "bbox": [
+      -3.46965,
+      50.60666,
+      -3.42673,
+      50.62574
+    ],
+    "country": "GB",
+    "region": "Devon",
+    "rudeness": 2,
+    "note": "A village on the Exe estuary. The wood is the innocent half.",
+    "source": "https://www.openstreetmap.org/node/130152234"
+  },
+  {
+    "id": "loose",
+    "name": "Loose",
+    "lat": 51.243961,
+    "lon": 0.519017,
+    "zoom": 14,
+    "bbox": [
+      0.4761,
+      51.22515,
+      0.56194,
+      51.26277
+    ],
+    "country": "GB",
+    "region": "Kent",
+    "rudeness": 2,
+    "note": "A Kent village, and the opposite of a tight GPS fix.",
+    "source": "https://www.openstreetmap.org/relation/2354669"
+  },
+  {
+    "id": "broadbottom",
+    "name": "Broadbottom",
+    "lat": 53.44218,
+    "lon": -2.01637,
+    "zoom": 14,
+    "bbox": [
+      -2.05929,
+      53.42428,
+      -1.97345,
+      53.46008
+    ],
+    "country": "GB",
+    "region": "Greater Manchester",
+    "rudeness": 2,
+    "note": "A village in Tameside, in the Etherow valley. The shape of the valley is real.",
+    "source": "https://www.openstreetmap.org/node/30000424"
+  },
+  {
+    "id": "cockington",
+    "name": "Cockington",
+    "lat": 50.463453,
+    "lon": -3.559329,
+    "zoom": 15,
+    "bbox": [
+      -3.58079,
+      50.45389,
+      -3.53787,
+      50.47302
+    ],
+    "country": "GB",
+    "region": "Devon",
+    "rudeness": 2,
+    "note": "A Devon village folded into Torquay, and still labelled under its own name.",
+    "source": "https://www.openstreetmap.org/node/254495572"
+  },
+  {
+    "id": "balls-cross",
+    "name": "Balls Cross",
+    "lat": 51.027618,
+    "lon": -0.592638,
+    "zoom": 15,
+    "bbox": [
+      -0.6141,
+      51.01817,
+      -0.57118,
+      51.03707
+    ],
+    "country": "GB",
+    "region": "West Sussex",
+    "rudeness": 2,
+    "note": "A hamlet in West Sussex. The crossroads had one job.",
+    "source": "https://www.openstreetmap.org/node/271983144"
+  },
+  {
+    "id": "great-cockup",
+    "name": "Great Cockup",
+    "lat": 54.68967,
+    "lon": -3.12875,
+    "zoom": 13,
+    "bbox": [
+      -3.21459,
+      54.65494,
+      -3.04291,
+      54.7244
+    ],
+    "country": "GB",
+    "region": "Cumbria",
+    "rudeness": 3,
+    "note": "A fell in the Uldale group, above Bassenthwaite. It is the mascot of this library, and a perfectly serious hill.",
+    "source": "https://www.openstreetmap.org/node/29953211"
+  },
+  {
+    "id": "little-cockup",
+    "name": "Little Cockup",
+    "lat": 54.69307,
+    "lon": -3.14684,
+    "zoom": 14,
+    "bbox": [
+      -3.18976,
+      54.6757,
+      -3.10392,
+      54.71044
+    ],
+    "country": "GB",
+    "region": "Cumbria",
+    "rudeness": 3,
+    "note": "The lesser top beside Great Cockup. Same problem, smaller hill.",
+    "source": "https://www.openstreetmap.org/node/4859334862"
+  },
+  {
+    "id": "bell-end",
+    "name": "Bell End",
+    "lat": 52.39289,
+    "lon": -2.090313,
+    "zoom": 15,
+    "bbox": [
+      -2.11178,
+      52.38372,
+      -2.06885,
+      52.40206
+    ],
+    "country": "GB",
+    "region": "Worcestershire",
+    "rudeness": 3,
+    "note": "A hamlet in Worcestershire, near Belbroughton. There is no polite way to drop this pin.",
+    "source": "https://www.openstreetmap.org/node/2770007724"
+  },
+  {
+    "id": "pratts-bottom",
+    "name": "Pratt's Bottom",
+    "lat": 51.34088,
+    "lon": 0.11146,
+    "zoom": 15,
+    "bbox": [
+      0.09,
+      51.33149,
+      0.13292,
+      51.35027
+    ],
+    "country": "GB",
+    "region": "Greater London",
+    "rudeness": 3,
+    "note": "A village in the London Borough of Bromley. It was Kent until 1965, which does not fix the name.",
+    "source": "https://www.openstreetmap.org/node/2203260781"
+  },
+  {
+    "id": "sandy-balls",
+    "name": "Sandy Balls",
+    "lat": 50.901666,
+    "lon": -1.716804,
+    "zoom": 14,
+    "bbox": [
+      -1.75972,
+      50.88272,
+      -1.67388,
+      50.92062
+    ],
+    "country": "GB",
+    "region": "Hampshire",
+    "rudeness": 3,
+    "note": "Woods and a holiday park in the New Forest, beside the River Avon.",
+    "source": "https://www.openstreetmap.org/node/12829815386"
+  },
+  {
+    "id": "brown-willy",
+    "name": "Brown Willy",
+    "lat": 50.5906,
+    "lon": -4.60269,
+    "zoom": 13,
+    "bbox": [
+      -4.68853,
+      50.55245,
+      -4.51685,
+      50.62875
+    ],
+    "country": "GB",
+    "region": "Cornwall",
+    "rudeness": 3,
+    "note": "The highest point in Cornwall, on Bodmin Moor. The name is older than the snigger.",
+    "source": "https://www.openstreetmap.org/node/762003017"
+  },
+  {
+    "id": "lickey-end",
+    "name": "Lickey End",
+    "lat": 52.353031,
+    "lon": -2.042544,
+    "zoom": 15,
+    "bbox": [
+      -2.06401,
+      52.34385,
+      -2.02108,
+      52.36221
+    ],
+    "country": "GB",
+    "region": "Worcestershire",
+    "rudeness": 3,
+    "note": "A village at the edge of Bromsgrove. The end in question is a place.",
+    "source": "https://www.openstreetmap.org/node/267937630"
+  },
+  {
+    "id": "intercourse",
+    "name": "Intercourse",
+    "lat": 40.038611,
+    "lon": -76.107648,
+    "zoom": 15,
+    "bbox": [
+      -76.12911,
+      40.02711,
+      -76.08619,
+      40.05012
+    ],
+    "country": "US",
+    "region": "Pennsylvania",
+    "rudeness": 3,
+    "note": "A village in Lancaster County, Pennsylvania, named for a crossroads. The other reading won.",
+    "source": "https://www.openstreetmap.org/node/158566944"
+  },
+  {
+    "id": "blue-ball",
+    "name": "Blue Ball",
+    "lat": 40.118361,
+    "lon": -76.047631,
+    "zoom": 15,
+    "bbox": [
+      -76.06909,
+      40.10687,
+      -76.02617,
+      40.12985
+    ],
+    "country": "US",
+    "region": "Pennsylvania",
+    "rudeness": 3,
+    "note": "A village down the road from Intercourse, Pennsylvania. This county's map is a dare.",
+    "source": "https://www.openstreetmap.org/node/158656270"
+  },
+  {
+    "id": "condom",
+    "name": "Condom",
+    "lat": 43.956072,
+    "lon": 0.374309,
+    "zoom": 13,
+    "bbox": [
+      0.28847,
+      43.91282,
+      0.46014,
+      43.99933
+    ],
+    "country": "FR",
+    "region": "Gers",
+    "rudeness": 3,
+    "note": "A town in Gers, in southwest France. The local pronunciation is not the English one.",
+    "source": "https://www.openstreetmap.org/relation/74435"
+  },
+  {
+    "id": "scratchy-bottom",
+    "name": "Scratchy Bottom",
+    "lat": 50.625989,
+    "lon": -2.280633,
+    "zoom": 15,
+    "bbox": [
+      -2.3021,
+      50.61646,
+      -2.25917,
+      50.63552
+    ],
+    "country": "GB",
+    "region": "Dorset",
+    "rudeness": 3,
+    "note": "A dry valley in the Dorset cliffs, just west of Durdle Door.",
+    "source": "https://www.openstreetmap.org/node/12613513685"
+  },
+  {
+    "id": "fanny-bay",
+    "name": "Fanny Bay",
+    "lat": 49.500213,
+    "lon": -124.823477,
+    "zoom": 14,
+    "bbox": [
+      -124.8664,
+      49.4807,
+      -124.78056,
+      49.51973
+    ],
+    "country": "CA",
+    "region": "British Columbia",
+    "rudeness": 3,
+    "note": "A community on the east coast of Vancouver Island. In British English the name is ruder than it is at home.",
+    "source": "https://www.openstreetmap.org/node/491936393"
+  },
+  {
+    "id": "shitterton",
+    "name": "Shitterton",
+    "lat": 50.754198,
+    "lon": -2.226871,
+    "zoom": 15,
+    "bbox": [
+      -2.24833,
+      50.74469,
+      -2.20541,
+      50.76371
+    ],
+    "country": "GB",
+    "region": "Dorset",
+    "rudeness": 4,
+    "note": "A hamlet in Bere Regis. The road sign is carved in stone, after the metal ones kept disappearing.",
+    "source": "https://www.openstreetmap.org/node/6480822398"
+  },
+  {
+    "id": "twatt-orkney",
+    "name": "Twatt",
+    "lat": 59.100705,
+    "lon": -3.278063,
+    "zoom": 15,
+    "bbox": [
+      -3.29953,
+      59.09299,
+      -3.2566,
+      59.10842
+    ],
+    "country": "GB",
+    "region": "Orkney",
+    "rudeness": 4,
+    "note": "A settlement in Birsay, on Orkney Mainland. The Norse word is a small plot of land; modern English has ruined it.",
+    "source": "https://www.openstreetmap.org/node/3407071155"
+  },
+  {
+    "id": "twatt-shetland",
+    "name": "Twatt",
+    "lat": 60.264658,
+    "lon": -1.411319,
+    "zoom": 15,
+    "bbox": [
+      -1.43278,
+      60.2572,
+      -1.38986,
+      60.27211
+    ],
+    "country": "GB",
+    "region": "Shetland",
+    "rudeness": 4,
+    "note": "The Shetland Twatt, on Mainland. Same Norse word, same problem on the radio.",
+    "source": "https://www.openstreetmap.org/node/606268401"
+  },
+  {
+    "id": "muff",
+    "name": "Muff",
+    "lat": 55.067471,
+    "lon": -7.269152,
+    "zoom": 14,
+    "bbox": [
+      -7.31207,
+      55.05026,
+      -7.22623,
+      55.08468
+    ],
+    "country": "IE",
+    "region": "County Donegal",
+    "rudeness": 4,
+    "note": "A village in County Donegal, on the road towards Derry. The slang is English; the village is not.",
+    "source": "https://www.openstreetmap.org/relation/14600610"
+  },
+  {
+    "id": "effin",
+    "name": "Effin",
+    "lat": 52.36245,
+    "lon": -8.610952,
+    "zoom": 15,
+    "bbox": [
+      -8.63241,
+      52.35327,
+      -8.58949,
+      52.37163
+    ],
+    "country": "IE",
+    "region": "County Limerick",
+    "rudeness": 4,
+    "note": "A village in County Limerick. Useful when the fix itself is.",
+    "source": "https://www.openstreetmap.org/node/538094314"
+  },
+  {
+    "id": "bitche",
+    "name": "Bitche",
+    "lat": 49.050873,
+    "lon": 7.425458,
+    "zoom": 13,
+    "bbox": [
+      7.33962,
+      49.01149,
+      7.51129,
+      49.09025
+    ],
+    "country": "FR",
+    "region": "Moselle",
+    "rudeness": 4,
+    "note": "A town in Moselle, pronounced nearer to 'beesh' than the English insult.",
+    "source": "https://www.openstreetmap.org/relation/107085"
+  },
+  {
+    "id": "climax",
+    "name": "Climax",
+    "lat": 42.238377,
+    "lon": -85.334995,
+    "zoom": 14,
+    "bbox": [
+      -85.37792,
+      42.21613,
+      -85.29207,
+      42.26062
+    ],
+    "country": "US",
+    "region": "Michigan",
+    "rudeness": 4,
+    "note": "A village in Michigan. The name means a peak, and also not.",
+    "source": "https://www.openstreetmap.org/relation/135030"
+  },
+  {
+    "id": "hooker",
+    "name": "Hooker",
+    "lat": 36.860964,
+    "lon": -101.214077,
+    "zoom": 14,
+    "bbox": [
+      -101.257,
+      36.83692,
+      -101.17116,
+      36.885
+    ],
+    "country": "US",
+    "region": "Oklahoma",
+    "rudeness": 4,
+    "note": "A town in the Oklahoma panhandle. Hooker is a surname. The other meaning is why it is listed here.",
+    "source": "https://www.openstreetmap.org/relation/185075"
+  },
+  {
+    "id": "crapstone",
+    "name": "Crapstone",
+    "lat": 50.491372,
+    "lon": -4.111243,
+    "zoom": 15,
+    "bbox": [
+      -4.13271,
+      50.48181,
+      -4.08978,
+      50.50093
+    ],
+    "country": "GB",
+    "region": "Devon",
+    "rudeness": 4,
+    "note": "A Devon village near Yelverton. Milder than the late bar around it, and still not a family open day.",
+    "source": "https://www.openstreetmap.org/node/305163871"
+  },
+  {
+    "id": "sugar-tit",
+    "name": "Sugar Tit",
+    "lat": 34.85215,
+    "lon": -82.14773,
+    "zoom": 15,
+    "bbox": [
+      -82.16919,
+      34.83982,
+      -82.12627,
+      34.86448
+    ],
+    "country": "US",
+    "region": "South Carolina",
+    "rudeness": 4,
+    "note": "A hamlet in Spartanburg County, South Carolina. There is no kinder framing.",
+    "source": "https://www.openstreetmap.org/node/4872503906"
+  },
+  {
+    "id": "dildo",
+    "name": "Dildo",
+    "lat": 47.568595,
+    "lon": -53.556151,
+    "zoom": 14,
+    "bbox": [
+      -53.59907,
+      47.54832,
+      -53.51323,
+      47.58887
+    ],
+    "country": "CA",
+    "region": "Newfoundland and Labrador",
+    "rudeness": 5,
+    "note": "A harbour town on the Avalon Peninsula of Newfoundland.",
+    "source": "https://www.openstreetmap.org/node/1452579483"
+  },
+  {
+    "id": "fugging",
+    "name": "Fugging",
+    "lat": 48.067411,
+    "lon": 12.862345,
+    "zoom": 15,
+    "bbox": [
+      12.84088,
+      48.05737,
+      12.88381,
+      48.07745
+    ],
+    "country": "AT",
+    "region": "Upper Austria",
+    "rudeness": 5,
+    "note": "A hamlet in Upper Austria. Until 2021 the official name was Fucking.",
+    "source": "https://www.openstreetmap.org/node/240095754"
+  },
+  {
+    "id": "wank",
+    "name": "Wank",
+    "lat": 47.508712,
+    "lon": 11.14303,
+    "zoom": 13,
+    "bbox": [
+      11.05719,
+      47.46812,
+      11.22887,
+      47.5493
+    ],
+    "country": "DE",
+    "region": "Bavaria",
+    "rudeness": 5,
+    "note": "A mountain above Garmisch-Partenkirchen. In German the name is not the English verb.",
+    "source": "https://www.openstreetmap.org/node/304353179"
+  },
+  {
+    "id": "cunter",
+    "name": "Cunter",
+    "lat": 46.607585,
+    "lon": 9.592502,
+    "zoom": 15,
+    "bbox": [
+      9.57104,
+      46.59726,
+      9.61396,
+      46.61791
+    ],
+    "country": "CH",
+    "region": "Graubünden",
+    "rudeness": 5,
+    "note": "A village in Graubünden, now part of Surses. The joke exists only in English, and it is a blunt one.",
+    "source": "https://www.openstreetmap.org/node/345328517"
+  },
+  {
+    "id": "dickshooter",
+    "name": "Dickshooter",
+    "lat": 42.391308,
+    "lon": -116.501158,
+    "zoom": 13,
+    "bbox": [
+      -116.58699,
+      42.34693,
+      -116.41532,
+      42.43569
+    ],
+    "country": "US",
+    "region": "Idaho",
+    "rudeness": 5,
+    "note": "A remote settlement in Owyhee County, Idaho.",
+    "source": "https://www.openstreetmap.org/node/150954349"
+  }
+]
